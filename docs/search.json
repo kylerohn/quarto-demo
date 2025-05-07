@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kyle Rohn - Quarto Page",
+    "section": "",
+    "text": "That is my cat"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#educational-background",
+    "href": "index.html#educational-background",
+    "title": "Kyle Rohn - Quarto Page",
+    "section": "Educational Background",
+    "text": "Educational Background\n\nSkills\n\nLanguages: Python, C, C++, Javascript/HTML/CSS, SQL, Bash, Go, Rust\nFrameworks and Libraries: Flask, NumPy, MatPlotLib, pandas, requests, BS4, Tensorflow, tkinter, opencv, pytest, Scikit-Learn\nTools: Github, Github Actions, Github Classroom, Linux, Confluence\n\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Kyle Rohn - Quarto Page",
+    "section": "Education",
+    "text": "Education\n\nUniversity of Colorado Denver\nB.S. in Computer Science, Minor in Mathematics and Data Science\nGPA: 3.85"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Kyle Rohn - Quarto Page",
+    "section": "Skills",
+    "text": "Skills\n\nLanguages: Python, C, C++, Javascript/HTML/CSS, SQL, Bash, Go, Rust\nFrameworks and Libraries: Flask, NumPy, MatPlotLib, pandas, requests, BS4, Tensorflow, tkinter, opencv, pytest, Scikit-Learn\nTools: Github, Github Actions, Github Classroom, Linux, Confluence"
+  },
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "Hobbies",
+    "section": "",
+    "text": "These are some of my hobbies"
+  },
+  {
+    "objectID": "hobbies.html#programming",
+    "href": "hobbies.html#programming",
+    "title": "Hobbies",
+    "section": "Programming",
+    "text": "Programming\n\n\n\ncode\n\n\nI’m not just saying this, I really like to code. This comes from the fact I really like solving puzzles, and every programming problem is just a complicated puzzle to solve."
+  },
+  {
+    "objectID": "hobbies.html#weightlifting",
+    "href": "hobbies.html#weightlifting",
+    "title": "Hobbies",
+    "section": "Weightlifting",
+    "text": "Weightlifting\nI enjoy spending time in the gym. It keeps me feeling and looking good, and it is a great way to blow off some steam when I’ve had a stressful day"
+  },
+  {
+    "objectID": "hobbies.html#video-games",
+    "href": "hobbies.html#video-games",
+    "title": "Hobbies",
+    "section": "Video Games",
+    "text": "Video Games\nMy favorite video game is Rocket League, of which I have more than 2500 hours playing. I’m not as good as I should be for that amount of time though.\n\n1 + 1\n\n[1] 2"
+  }
+]

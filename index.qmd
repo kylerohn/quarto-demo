@@ -1,0 +1,27 @@
+---
+title: "Kyle Rohn - Quarto Page"
+image: "matcha.jpg"
+about:
+  template: broadside
+  links: 
+    - text: "Email" 
+      href: "kyle.rohn@ucdenver.edu" 
+      icon: envelope
+    - text: "Github"
+      href: "https://github.com/kylerohn"
+      icon: github
+theme: vapor
+---
+
+That is my cat
+
+## Education
+
+- University of Colorado Denver 
+- B.S. in Computer Science, Minor in Mathematics and Data Science
+- GPA: 3.85
+
+## Skills
+- Languages: Python, C, C++, Javascript/HTML/CSS, SQL, Bash, Go, Rust
+- Frameworks and Libraries: Flask, NumPy, MatPlotLib, pandas, requests, BS4, Tensorflow, tkinter, opencv, pytest, Scikit-Learn 
+- Tools: Github, Github Actions, Github Classroom, Linux, Confluence

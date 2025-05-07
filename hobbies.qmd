@@ -1,0 +1,20 @@
+---
+title: "Hobbies"
+---
+
+These are some of my hobbies
+
+## Programming
+
+![code](./programming-languages.jpg)
+
+I'm not just saying this, I really like to code. This comes from the fact I really like solving puzzles, and every programming problem is just a complicated puzzle to solve.
+
+## Weightlifting
+
+I enjoy spending time in the gym. It keeps me feeling and looking good, and it is a great way to blow off some steam when I've had a stressful day
+
+
+## Video Games
+
+My favorite video game is Rocket League, of which I have more than 2500 hours playing. I'm not as good as I should be for that amount of time though.
