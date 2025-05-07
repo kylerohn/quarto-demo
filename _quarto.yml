@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "homework13-rohn"
+  title: "Kyle Rohn - Quarto Demo"
   navbar:
     left:
       - href: index.qmd
